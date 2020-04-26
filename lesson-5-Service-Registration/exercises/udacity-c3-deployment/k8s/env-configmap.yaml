@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: ConfigMap
+data:
+  AWS_BUCKET: udagram-muratto-dev
+  AWS_PROFILE: default
+  AWS_REGION: eu-west-3
+  JWT_SECRET: helloworld
+  POSTGRESS_DB: postgremurattov
+  POSTGRESS_HOST: postgremuratto.cpw9qm8huf0w.eu-west-3.rds.amazonaws.com
+  URL: http://localhost:8100
+metadata:
+  name: env-config
