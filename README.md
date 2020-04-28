@@ -63,3 +63,7 @@ Lesson 4 of this course would require you to install any one tool for creating a
 
 ### 6. Travis CI
 Lesson 6 of this course would require you to use Travis CI. You would have to sign-up on  Travis-ci.com using your GitHub account credentials and then create a `.travis.yml` for your project. [Refer this tutorial to get started with Travis CI](https://docs.travis-ci.com/user/tutorial/).
+
+The correct configuration is under lesson-5-Service-Registration folder.
+
+Thanks for reviewing :)
